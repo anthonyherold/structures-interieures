@@ -19,6 +19,23 @@
 			</footer>
 		</div>
 
+		<section class="footer">
+	    <div class="row">
+	      <div class="large-4 columns">
+	        <img class="img-logo-blanc" src="images/logo-blanc.png">
+	        <p>2017 © “Structures intérieures” All rights reserved  </p>
+	      </div>
+	      <div class="large-4 columns">
+	        <a href="about.html" class="lien-footer-2">Qui sommes-nous</a><br />
+	        <a href="about.html" class="lien-footer-2">Conditions générales de ventes</a><br />
+	      </div>
+	      <div class="large-4 columns">
+	        <a href="about.html" class="lien-footer-2">Qui sommes-nous</a><br />
+	        <a href="about.html" class="lien-footer-2">Conditions générales de ventes</a><br /></div>
+	    </div>
+	  </section>
+
+
 		<?php do_action( 'foundationpress_layout_end' ); ?>
 
 <?php if ( get_theme_mod( 'wpt_mobile_menu_layout' ) === 'offcanvas' ) : ?>
